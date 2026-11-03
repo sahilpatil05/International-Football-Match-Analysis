@@ -171,4 +171,8 @@ The project also demonstrates practical skills in data cleaning, data modelling,
 - Interactive Dashboard Design
 - Analytical Thinking
 
+Dashboard:
+<img width="1375" height="741" alt="image" src="https://github.com/user-attachments/assets/2bd0672c-a181-41ac-a0e7-7e0d4007c6e9" />
+
+
 **Project Outcome:** Developed an interactive one-page Power BI dashboard for analyzing historical international football match performance from 1872 to 2026.
